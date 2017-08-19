@@ -43,5 +43,5 @@ Answer: Please check your JAVA_HOME setting. If JAVA_HOME setting exists, it may
 
 
 # Resources #
-1. [Build IKAnalyzer With Solr 5.1.0](http://blog.univle.com/blog/2015/06/05/build-ikanalyzer-with-solr-5-dot-1-0/)
+
     
