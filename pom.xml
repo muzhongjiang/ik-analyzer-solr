@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.wltea.ik-analyzer</groupId>
-  <artifactId>ik-analyzer-solr5</artifactId>
-  <version>5.x</version>
+  <artifactId>ik-analyzer-solr6</artifactId>
+  <version>6.x</version>
   <packaging>jar</packaging>
 
   <name>ik-analyzer-solr6</name>
